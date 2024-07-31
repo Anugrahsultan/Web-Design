@@ -2,3 +2,5 @@ Membuat design menggunakan framework bootstrap
 - Web travel
 - Web Organisasi
 - pakai theme dark
+  "Pakai warna pure hitam #0000"
+- pakai warna yang light
