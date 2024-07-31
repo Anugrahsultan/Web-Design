@@ -2,4 +2,5 @@ Membuat design menggunakan framework bootstrap
 - Web travel
 - Web Organisasi
 - pakai theme dark
+  "jangan pakai warna hitam #0000"
 - menggunakan warna monocrhome
